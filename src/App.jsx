@@ -1,7 +1,11 @@
+import ContactsListing from "./components/webapp/ContactsListing";
+import LoginForm from "./components/webapp/LoginForm";
+
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <main className="p-4 flex flex-col items-center w-full">
+      <h1 className="text-2xl font-bold">React Contacts</h1>
+      <LoginForm />
+    </main>
   )
 }

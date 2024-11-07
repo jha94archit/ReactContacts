@@ -1,0 +1,15 @@
+{
+    "contacts": [
+      { "id": 1, "name": "John", "phone": "+91-1111111111" },
+      { "id": 2, "name": "Jane", "phone": "+91-2111111111" },
+      { "id": 3, "name": "Bruce", "phone": "+91-3111111111" },
+      { "id": 4, "name": "Patrick", "phone": "+91-4111111111" },
+      { "id": 5, "name": "Alma", "phone": "+91-5111111111" },
+      { "id": 6, "name": "Kenny", "phone": "+91-6111111111" },
+      { "id": 7, "name": "Neo", "phone": "+91-7111111111" },
+      { "id": 8, "name": "Ron", "phone": "+91-8111111111" },
+      { "id": 9, "name": "Harry", "phone": "+91-9111111111" },
+      { "id": 10, "name": "Dumbledore", "phone": "+91-121111111" }
+    ]
+  }
+  
